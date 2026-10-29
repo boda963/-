@@ -1,0 +1,4 @@
+mirofish-app/
+.env
+.env.*
+*.log
